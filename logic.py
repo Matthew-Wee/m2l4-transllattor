@@ -1,3 +1,6 @@
+#Ini PR MAtthew
+
+
 # Tugas #3
 from translate import Translator
 from collections import defaultdict
@@ -42,4 +45,5 @@ class TextAnalysis():
             return translation  # Hello, how are you?
         
         except:
+
             return "Gagal menerjemahkan"
