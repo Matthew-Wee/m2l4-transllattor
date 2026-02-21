@@ -1,2 +1,6 @@
 # m2l4-transllattor
-translattor
+ada banyak
+ada bot.command
+translate
+text
+send
